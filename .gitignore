@@ -1,0 +1,4 @@
+titanic_data/
+*.csv
+*.ipynb_checkpoints
+venv/
